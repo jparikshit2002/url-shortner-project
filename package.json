@@ -1,0 +1,24 @@
+{
+  "name": "url-shortner-app",
+  "version": "1.0.0",
+  "description": "this is a url shortner-webapp build to shorten the urls ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParikshitJ06/url-shortner-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParikshitJ06/url-shortner-project/issues"
+  },
+  "homepage": "https://github.com/ParikshitJ06/url-shortner-project#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
+  }
+}
