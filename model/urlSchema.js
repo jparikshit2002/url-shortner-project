@@ -16,3 +16,4 @@ const urlschema =new  mongoose.Schema({
 
 exports.urlmodel = mongoose.model('url-shortner',urlschema);
 
+
